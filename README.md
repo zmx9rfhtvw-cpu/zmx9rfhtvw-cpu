@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **m.julianj08@yahoo.com**
 
-- ⚡ Fun fact **I got into coding while trying to download a script for a game and wondered can I get far if I learned to code?.**
+- ⚡ Fun fact **I got into coding while trying to download a script for a game and wondered how deep is the rabbit hole for coding?.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
