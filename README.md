@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Julian Martinez-Deras</h1>
 <h3 align="center">A beginner in programming who is looking to get far</h3>
 
