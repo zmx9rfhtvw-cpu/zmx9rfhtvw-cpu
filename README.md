@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Julian Martinez-Deras</h1>
+<h1 align="center">Hi 👋, I'm Julian Martinez </h1>
 <h3 align="center">A beginner in programming who is looking to get far</h3>
 
-- 🌱 I’m currently learning **python, c++**
+- 🌱 I’m currently learning **python and expected to learn c++**
 
 - 👨‍💻 All of my projects are available at [my profile -> repos](my profile -> repos)
 
